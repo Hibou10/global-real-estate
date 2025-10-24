@@ -6,3 +6,5 @@ options:
   host: db.tvbbgnrowcdrgusbwjdo.supabase.co
   port: 5432
   schema: analytics
+  user: postgres
+  password: w3@bre!7+6oD
